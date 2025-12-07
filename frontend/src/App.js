@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { Camera, Mic, Upload, Zap, User, Home, X, Check, ChevronRight, FileText, PlusCircle } from 'lucide-react';
 //After new Update
-const API_URL = 'http://localhost:3001';
+//const API_URL = 'http://localhost:3001';
+const API_URL = 'https://nutricoach-iuw7.onrender.com';
 
 const App = () => {
   // --- STATE ---
