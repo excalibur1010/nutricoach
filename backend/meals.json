@@ -1,0 +1,145 @@
+[
+  {
+    "foods": [
+      {
+        "name": "Chicken Breast (100g / 3.5oz, cooked, boneless, skinless)",
+        "calories": 165,
+        "protein": 31,
+        "carbs": 0,
+        "fats": 3.6
+      }
+    ],
+    "timestamp": "2025-11-02T17:33:16.619Z"
+  },
+  {
+    "foods": [
+      {
+        "name": "Chicken Fingers",
+        "calories": 650,
+        "protein": 50,
+        "carbs": 50,
+        "fats": 35
+      }
+    ],
+    "timestamp": "2025-11-02T18:19:24.558Z"
+  },
+  {
+    "foods": [
+      {
+        "name": "Burger",
+        "calories": 550,
+        "protein": 30,
+        "carbs": 38,
+        "fats": 35
+      }
+    ],
+    "timestamp": "2025-11-02T18:53:35.570Z"
+  },
+  {
+    "foods": [
+      {
+        "name": "Chicken Breasts",
+        "calories": 165,
+        "protein": 31,
+        "carbs": 0,
+        "fats": 3.6
+      }
+    ],
+    "timestamp": "2025-11-02T19:07:01.862Z"
+  },
+  {
+    "foods": [
+      {
+        "name": "Plain Sandwich (2 slices of bread)",
+        "calories": 160,
+        "protein": 6,
+        "carbs": 30,
+        "fats": 3
+      }
+    ],
+    "timestamp": "2025-11-02T19:31:31.018Z"
+  },
+  {
+    "foods": [],
+    "timestamp": "2025-12-06T21:02:38.627Z"
+  },
+  {
+    "foods": [
+      {
+        "name": "Grilled Chicken Salad (AI Detected)",
+        "calories": 350,
+        "protein": 45,
+        "carbs": 12,
+        "fats": 10
+      },
+      {
+        "name": "Avocado Side",
+        "calories": 120,
+        "protein": 2,
+        "carbs": 6,
+        "fats": 10
+      }
+    ],
+    "timestamp": "2025-12-06T21:17:49.018Z"
+  },
+  {
+    "foods": [],
+    "timestamp": "2025-12-06T21:27:21.554Z"
+  },
+  {
+    "foods": [],
+    "timestamp": "2025-12-06T21:28:21.657Z"
+  },
+  {
+    "foods": [
+      {
+        "name": "AriZona Green Tea with Ginseng and Honey",
+        "calories": 240,
+        "protein": 0,
+        "carbs": 60,
+        "fats": 0
+      }
+    ],
+    "timestamp": "2025-12-06T22:39:08.969Z"
+  },
+  {
+    "foods": [
+      {
+        "name": "Clancy's Wavy Potato Chips",
+        "calories": 140,
+        "protein": 2,
+        "carbs": 13,
+        "fats": 9
+      }
+    ],
+    "timestamp": "2025-12-06T22:40:29.950Z"
+  },
+  {
+    "foods": [
+      {
+        "name": "Hershey's Milk Chocolate Bar (standard 1.55 oz / 43g bar)",
+        "calories": 210,
+        "protein": 3,
+        "carbs": 24,
+        "fats": 13
+      }
+    ],
+    "timestamp": "2025-12-06T22:41:36.968Z"
+  },
+  {
+    "foods": [],
+    "timestamp": "2025-12-06T22:42:14.665Z"
+  },
+  {
+    "foods": [
+      {
+        "name": "Clancy's Wavy Potato Chips",
+        "calories": 140,
+        "protein": 2,
+        "carbs": 16,
+        "fats": 8
+      }
+    ],
+    "timestamp": "2025-12-07T01:38:20.161Z"
+  }
+]
